@@ -1,0 +1,16 @@
+gym==0.26.2
+gym-notices==0.0.8
+gymnasium==1.1.1
+matplotlib==3.9.4
+pandas==2.2.3
+pillow==11.1.0
+pygame==2.6.1
+Pygments==2.19.1
+PyOpenGL==3.1.9
+PyOpenGL-accelerate==3.1.9
+stable_baselines3==2.6.0
+pip freeze > requirements.txt
+tensorboard==2.19.0
+tensorboard-data-server==0.7.2
+torch==2.6.0
+tqdm==4.67.1
